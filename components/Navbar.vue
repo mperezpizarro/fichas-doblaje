@@ -29,13 +29,13 @@
             <!-- En base al valor de la variable asigna una clase u otra. Nota: :class es una abreviatura de v-bind:class -->
             <ul 
                 :class="menuHidden ? 'hidden' : 'block'" 
-                class="mmd:hidden gap-x-4 fixed top-0 left-0 w-full h-screen z-20 bg-gray-50/60 backdrop-blur-sm flex items-center justify-center gap-y-4 flex-col"
+                class="mmd:hidden gap-x-4 fixed top-0 left-0 w-full h-screen z-20 bg-gray-50/60 backdrop-blur-lg flex items-center justify-center gap-y-4 flex-col"
             >
                 <button v-on:click="menuHidden = !menuHidden" class="mmd:hidden text-2xl mb-8">
                     <Icon name="ion:close-round" />
                 </button>
                 <li v-for="link in links">
-                    <NuxtLink :to="link.href" class="hover:underline">
+                    <NuxtLink :to="link.href" class="hover:underline" v-on:click="menuHidden = !menuHidden">
                         {{ link.label }}
                     </NuxtLink>
                 </li>
