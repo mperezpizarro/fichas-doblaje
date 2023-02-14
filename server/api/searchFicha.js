@@ -7,9 +7,5 @@ export default defineEventHandler((ev) => {
         return ficha.info_tecnica.titulo.toLowerCase().includes(search)
     })
 
-    if(resultado.length > 0) {
-        return  resultado
-    } else {
-        return { "resultado": "No se han encontrado resultados." }
-    }
+    return resultado
 })
