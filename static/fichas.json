@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "lang": "es",
+        "info_tecnica": {
+            "traduccion": "Margarita Díaz",
+            "direccion": "Ruth Pazo",
+            "ajuste": "Ruth Pazo",
+            "ajuste_musical": "",
+            "direccion_musical": "Ramón Bermejo",
+            "estudio": "SDI Media / Iyuno SDI",
+            "titulo": "Anfibilandia",
+            "titulo_vo": "Amphibia"
+        },
+        "cast": [
+            { "original": "Brenda Song", "doblaje": "Paula Carro", "personaje": "Anne Boonchuy" },
+            { "original": "Justin Felbinger", "doblaje": "Rocío Pereiras", "personaje": "Sprig Plantar" },
+            { "original": "Bill Farmer", "doblaje": "Santiago Salorio", "personaje": "Saltorino (Papá Hop) Plantar" },
+            { "original": "Amanda Leighton", "doblaje": "Chelo Díaz", "personaje": "Polly Plantar" },
+            { "original": "Anna Akana", "doblaje": "Sara Couce", "personaje": "Sasha Waybright" },
+            { "original": "Troy Baker", "doblaje": "Gonzalo Faílde", "personaje": "Grimoso" },
+            { "original": "Haley Tju", "doblaje": "Natalia García Dans", "personaje": "Marcy Wu" },
+            { "original": "Keith David", "doblaje": "José Carlos San Segundo", "personaje": "Rey Andrias" },
+            { "original": "Michelle Dockery", "doblaje": "Ana Lemos", "personaje": "Lady Olivia" },
+            { "original": "Zehra Fazal ", "doblaje": "Ruth Pazo", "personaje": "General Yunan" }
+        ],
+        "info_adicional": ""
+    },
+    {
+        "id": 2,
+        "lang": "es",
+        "info_tecnica": {
+            "traduccion": "",
+            "direccion": "Lucía Esteban",
+            "ajuste": "Lucía Esteban",
+            "ajuste_musical": "",
+            "direccion_musical": "",
+            "estudio": "Iyuno Spain",
+            "titulo": "Colgados en Filadelfia",
+            "titulo_vo": "It's Always Sunny in Philadelphia"
+        },
+        "cast": [
+            { "original": "Rob McElhenney", "doblaje": "Cholo Moratalla", "personaje": "Mac" },
+            { "original": "Charlie Day", "doblaje": "Artur Palomo", "personaje": "Charlie" },
+            { "original": "Glenn Howerton", "doblaje": "Rafa Romero", "personaje": "Dennis" },
+            { "original": "Kaitlin Olson", "doblaje": "Ana Jiménez", "personaje": "Dee" },
+            { "original": "Danny DeVito", "doblaje": "Roberto Cuenca", "personaje": "Frank" }
+        ],
+        "info_adicional": ""
+    },
+    {
+        "id": 3,
+        "lang": "ga",
+        "info_tecnica": {
+            "traduccion": "Manuel Arca Castro",
+            "direccion": "Damián Cortés",
+            "ajuste": "",
+            "ajuste_musical": "",
+            "direccion_musical": "",
+            "estudio": "Iyuno SDI",
+            "titulo": "Sonic Prime",
+            "titulo_vo": "Sonic Prime"
+        },
+        "cast": [
+            { "original": "Deven Mack", "doblaje": "Nacho Castaño", "personaje": "Sonic" },
+            { "original": "Ashleigh Ball ", "doblaje": "Yahidra García", "personaje": "Miles (Tails) Prower" },
+            { "original": "Ashleigh Ball ", "doblaje": "Yahidra García", "personaje": "Tails alternos" },
+            { "original": "Adam Nurada ", "doblaje": "Eloy Pérez", "personaje": "Knuckles" },
+            { "original": "Vincent Tong ", "doblaje": "Eloy Pérez", "personaje": "Knuckles alternos" },
+            { "original": "Shannon Chan-Kent", "doblaje": "Antía Álvarez", "personaje": "Amy Rose" },
+            { "original": "Shannon Chan-Kent", "doblaje": "Antía Álvarez", "personaje": "Amys alternas" },
+            { "original": "Kazumi Evans", "doblaje": "Chelo Díaz", "personaje": "Rouge" },
+            { "original": "Kazumi Evans", "doblaje": "Chelo Díaz", "personaje": "Rouges alternas" },
+            { "original": "Ian Hanlin", "doblaje": "Norberto Vilanova", "personaje": "Shadow" },
+            { "original": "Ian Hanlin", "doblaje": "Gonzalo Faílde", "personaje": "Big" },
+            { "original": "Ian Hanlin", "doblaje": "Gonzalo Faílde", "personaje": "Bigs alternos" },
+            { "original": "Brian Drummond", "doblaje": "Juan Diéguez", "personaje": "Dr. Ivo (Eggman) Robotnik" },
+            { "original": "Brian Drummond", "doblaje": "Juan Diéguez", "personaje": "Excelentísimo Doutor Eggman" },
+            { "original": "Brian Drummond", "doblaje": "Gaspar Somoza", "personaje": "Dr. Disposto" },
+            { "original": "Vincent Tong", "doblaje": "Gaspar Somoza", "personaje": "Dr. Denso" },
+            { "original": "Vincent Tong", "doblaje": "Gaspar Somoza", "personaje": "Dr. Discorde" },
+            { "original": "Vincent Tong", "doblaje": "Gaspar Somoza", "personaje": "Dr. Babexos" }
+        ],
+        "info_adicional": ""
+    },
+    {
+        "id": 4,
+        "lang": "ca",
+        "info_tecnica": {
+            "traduccion": "",
+            "direccion": "Ferran Ruiz",
+            "ajuste": "",
+            "ajuste_musical": "",
+            "direccion_musical": "",
+            "estudio": "SIK Estudio",
+            "titulo": "Els Guardians de la Nit: El Tren Infinit",
+            "titulo_vo": "Kimetsu no Yaiba: Mugen Ressha-hen"
+        },
+        "cast": [
+            { "original": "Natsuki Hanae", "doblaje": "Marcel Navarro", "personaje": "Tanjiro Kamado" },
+            { "original": "Hiro Shimono", "doblaje": "Xavier Castañer", "personaje": "Zenitsu Agatsuma" },
+            { "original": "Yoshitsugu Matsuoka", "doblaje": "Eduard Itchart", "personaje": "Inosuke Hashibara" },
+            { "original": "Satoshi Hino", "doblaje": "David Jenner", "personaje": "Kyojuro Rengoku" },
+            { "original": "Daisuke Hirakawa", "doblaje": "Enric Hernández", "personaje": "1ª Lluna (Enmu)" },
+            { "original": "Akira Ishida", "doblaje": "Marc Gómez", "personaje": "3ª Lluna Superior (Akaza)"},
+            { "original": "Akari Kito", "doblaje": "Irene Miras", "personaje": "Nezuko Kamado"}
+        ],
+        "info_adicional": ""
+    }
+]
