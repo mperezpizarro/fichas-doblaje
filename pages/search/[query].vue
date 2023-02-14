@@ -8,7 +8,11 @@
 </script>
 
 <template>
-    <Grid extraCSS="mt-4">
-        <LinkCard v-for="data in resultado" :ficha="data" />
-    </Grid>
+    <div class="mt-4">
+        <PageTitle>RESULTADOS DE LA BÚSQUEDA</PageTitle>
+        <Grid extraCSS="mt-4" v-if="resultado.length > 0">
+            <LinkCard v-for="data in resultado" :ficha="data" />
+        </Grid>
+        <p v-else>No se han encontrado resultados...</p>
+    </div>
 </template>
