@@ -106,5 +106,59 @@
             { "original": "Akari Kito", "doblaje": "Irene Miras", "personaje": "Nezuko Kamado"}
         ],
         "info_adicional": ""
+    },
+    {
+        "id": 5,
+        "lang": "es",
+        "info_tecnica": {
+            "traduccion": "Kenneth Post",
+            "direccion": "Manuel Osto",
+            "ajuste": "Gonzalo Abril",
+            "ajuste_musical": "",
+            "direccion_musical": "",
+            "estudio": "Tecnison",
+            "titulo": "El Gato con Botas: El último deseo",
+            "titulo_vo": "Puss in Boots: The Last Wish"
+        },
+        "cast": [
+            { "original": "Antonio Banderas", "doblaje": "Antonio Banderas", "personaje": "Gato con Botas" },
+            { "original": "Salma Hayek", "doblaje": "Diana Alonso", "personaje": "Kitty Zarpas Suaves" },
+            { "original": "Harvey Guillén", "doblaje": "Raúl Lara", "personaje": "Perrito" },
+            { "original": "Florence Pugh", "doblaje": "Vera Bosch", "personaje": "Ricitos de Oro" },
+            { "original": "John Mulaney", "doblaje": "Eduardo Bosch", "personaje": "Jack Horner" },
+            { "original": "Wagner Moura", "doblaje": "Roberto Encinas", "personaje": "Lobo" },
+            { "original": "Ray Winstone", "doblaje": "Jorge García Insúa", "personaje": "Papá Oso" },
+            { "original": "Samsom Kayo", "doblaje": "Oscar Kapoya", "personaje": "Bebé Oso" },
+            { "original": "Olivia Colman", "doblaje": "Gemma Martín", "personaje": "Mamá Oso" },
+            { "original": "Kevin McKann", "doblaje": "José Padilla", "personaje": "Bicho Ético" },
+            { "original": "Bernardo de Paula", "doblaje": "Rafael Azcárraga", "personaje": "Gobernador" }
+        ],
+        "info_adicional": "Director musical de Antonio Banderas: Arturo Díez."
+    },
+    {
+        "id": 6,
+        "lang": "ca",
+        "info_tecnica": {
+            "traduccion": "Lluís Comes",
+            "direccion": "Quim Roca",
+            "ajuste": "Lluís Comes",
+            "ajuste_musical": "",
+            "direccion_musical": "",
+            "estudio": "Deluxe Spain",
+            "titulo": "El Gat amb Botes, L'ultim desig",
+            "titulo_vo": "Puss in Boots: The Last Wish"
+        },
+        "cast": [
+            { "original": "Antonio Banderas", "doblaje": "Albert Mieza", "personaje": "Gat amb Botes" },
+            { "original": "Salma Hayek", "doblaje": "Esther Solans", "personaje": "Kitty Urpes de Seda" },
+            { "original": "Harvey Guillén", "doblaje": "Sergi Olmo", "personaje": "Gos" },
+            { "original": "Florence Pugh", "doblaje": "Carla López Mauri", "personaje": "Rínxols d'Or" },
+            { "original": "John Mulaney", "doblaje": "Pau López", "personaje": "Jack Horner" },
+            { "original": "Wagner Moura", "doblaje": "Raúl Lorrens", "personaje": "Llop" },
+            { "original": "Ray Winstone", "doblaje": "Jaume Mallorfe", "personaje": "Papa Os" },
+            { "original": "Samsom Kayo", "doblaje": "Marc Torrens", "personaje": "Menut" },
+            { "original": "Olivia Colman", "doblaje": "Victòria Pagès", "personaje": "Mama Os" }
+        ],
+        "info_adicional": ""
     }
 ]
