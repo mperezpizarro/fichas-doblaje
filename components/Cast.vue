@@ -12,6 +12,11 @@
             </tr>
         </thead>
         <tbody>
+            <tr class="odd:bg-gray-100 even:bg-gray-200 font-bold">
+                <td class="px-6 py-4">ORIGINAL</td>
+                <td class="px-6 py-4">DOBLAJE</td>
+                <td class="px-6 py-4">PERSONAJE</td>
+            </tr>
             <CastRow 
                 v-for="data in cast"
                 :original="data.original"
