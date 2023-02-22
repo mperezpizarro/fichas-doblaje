@@ -14,5 +14,6 @@
         <PageTitle>{{ info_tecnica.titulo }}</PageTitle>
         <InfoTecnica :info="info_tecnica" />
         <Cast :cast="cast" />
+        <InfoAdicional :info="info_adicional" />
     </div>
 </template>
