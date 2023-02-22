@@ -13,6 +13,7 @@
         </thead>
         <tbody>
             <TableRow title="Título original:" :value="info.titulo_vo" />
+            <TableRow title="Traducción:" :value="info.traduccion" />
             <TableRow title="Dirección:" :value="info.direccion" />
             <TableRow title="Ajuste:" :value="info.ajuste" />
             <TableRow title="Ajuste musical:" :value="info.ajuste_musical" />
