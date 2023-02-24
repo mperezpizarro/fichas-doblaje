@@ -160,5 +160,37 @@
             { "original": "Olivia Colman", "doblaje": "Victòria Pagès", "personaje": "Mama Os" }
         ],
         "info_adicional": ""
+    },
+    {
+        "id": 7,
+        "lang": "es",
+        "info_tecnica": {
+            "traduccion": "Raúl Arol y Emiliano Rodríguez Nuesch",
+            "direccion": "Antonio Villar",
+            "ajuste": "",
+            "ajuste_musical": "",
+            "direccion_musical": "",
+            "estudio": "Abaira",
+            "titulo": "KINGDOM HEARTS II",
+            "titulo_vo": "KINGDOM HEARTS II"
+        },
+        "cast": [
+            { "original": "Miyu Irino", "doblaje": "Adolfo Moreno", "personaje": "Sora" },
+            { "original": "Risa Uchida", "doblaje": "Neri Hualde", "personaje": "Kairi" },
+            { "original": "Mamoru Miyano", "doblaje": "Jorge Saudinós", "personaje": "Riku" },
+            { "original": "Kôichi Yamadera", "doblaje": "Héctor Fernández Lera", "personaje": "Pato Donald" },
+            { "original": "Yu Shimaka", "doblaje": "David García Vázquez", "personaje": "Goofy" },
+            { "original": "Takashi Aoyagi", "doblaje": "José Padilla", "personaje": "Rey Mickey Mouse" },
+            { "original": "Genzô Wakayama", "doblaje": "Antonio Villar", "personaje": "DiZ / Ansem el Sabio" },
+            { "original": "Akio Ôtsuka", "doblaje": "Roberto Encinas", "personaje": "Xehanort / Ansem" },
+            { "original": "Norio Wakamoto", "doblaje": "Gabriel Jiménez", "personaje": "Xemnas" },
+            { "original": "Toshiko Sawada", "doblaje": "Mercedes Cepeda", "personaje": "Maléfica" },
+            { "original": "Tôru Ôhira", "doblaje": "Juan Fernández Mejías", "personaje": "Pete" },
+            { "original": "Kaneta Kimotsuki", "doblaje": "Miguel Ayones", "personaje": "Pepito Grillo" },
+            { "original": "Kôki Uchiyama", "doblaje": "Álvaro de Juan", "personaje": "Roxas" },
+            { "original": "Iku Nakahara", "doblaje": "Cristina Yuste", "personaje": "Naminé" },
+            { "original": "Keiji Fujiwara", "doblaje": "Victor Martínez", "personaje": "Axel" }
+        ],
+        "info_adicional": "Este doblaje no se mantuvo en futuras remasterizaciones del juego, llegando sólo en inglés con subtítulos al español."
     }
 ]
