@@ -1,5 +1,5 @@
 <script setup>
-const { data: fichas } = await useFetch("/api/getFicha")
+    const { data: fichas } = await useFetch("/api/getFicha")
 </script>
 
 <template>
