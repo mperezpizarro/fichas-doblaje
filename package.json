@@ -9,9 +9,9 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
-    "nuxt": "^3.11.2",
+    "nuxt": "^3.12.2",
     "nuxt-icon": "^0.2.11",
     "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.3"
+    "tailwindcss": "^3.4.4"
   }
 }
